@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyHomeLibrary</string>
+    <string name="enter_title_name">Enter title name</string>
+    <string name="low_rating">1</string>
+    <string name="add_title">Add Title</string>
+    <string name="titles_string">Titles</string>
+    <string name="enter_authors_name_string">Enter author\'s name:</string>
+    <string name="add_string">Add</string>
+    <string name="authors_string">Authors</string>
+    <string name="tap_on_an_author_string">Tap on an Author to add and view titles</string>
+    <string name="enter_name_hint_string">Enter name</string>
+    <string name="update_string">Update</string>
+    <string name="delete_string">Delete</string>
+    <array name="countries">
+        <item name="america">America</item>
+        <item name="france">France</item>
+        <item name="spain">Spain</item>
+        <item name="columbia">Columbia</item>
+        <item name="russia">Russia</item>
+    </array>
+</resources>
